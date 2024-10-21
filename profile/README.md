@@ -1,1 +1,4 @@
-# This Organzation is used for study demo by gekal
+# This Organzation is used for study by gekal
+
+- study demo
+- ...
